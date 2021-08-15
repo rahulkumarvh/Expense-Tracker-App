@@ -1,0 +1,10 @@
+.bg {
+  z-index: 0;
+  position: relative;
+  height: 55rem;
+  background-size: cover;
+}
+
+.com {
+  z-index: 1;
+}
